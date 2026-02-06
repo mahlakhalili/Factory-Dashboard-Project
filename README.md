@@ -1,4 +1,4 @@
-<img width="959" height="495" alt="Screenshot 2026-01-25 223123" src="https://github.com/user-attachments/assets/e18e0e59-b56a-4a13-a5c3-bf080f4f67c7" /># Factory-Dashboard-Project
+# Factory-Dashboard-Project
 
 ## معرفی پروژه
 
