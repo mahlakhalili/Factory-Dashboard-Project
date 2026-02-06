@@ -15,7 +15,8 @@
 داده‌ها مربوط به **یک سال کاری کارخانه** هستند و این پروژه به‌عنوان یک نمونه‌کار عملی در حوزه **تحلیل داده و Business Intelligence** توسعه داده شده است.
 
 
-<img width="972" height="508" alt="sc1" src="https://github.com/user-attachments/assets/9acd6448-62c2-4e54-816e-726ecafe2314" />
+
+<img width="972" height="508" alt="sc1" src="https://github.com/user-attachments/assets/39d3cc12-a543-4e01-a6d3-9bd809200579" />
 
 ## داشبورد Overview (نمای کلی کارخانه)
 
